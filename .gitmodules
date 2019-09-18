@@ -1,0 +1,4 @@
+[submodule "src/ExceptionLite"]
+	path = src/ExceptionLite
+	url = git@github.com:Rubashevskiy/ExceptionLite.git
+	branch = submodule
